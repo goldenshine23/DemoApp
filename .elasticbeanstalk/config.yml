@@ -1,0 +1,5 @@
+branch-defaults:
+  master:
+    environment: demo-env
+global:
+  profile: eb-cli
